@@ -1,0 +1,13 @@
+﻿  Lab04.cpp
+D:\ntut\碩一下學期\電腦圖學\MyOpenGLProject\cpp\Lab04.cpp(116,20): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\ntut\碩一下學期\電腦圖學\MyOpenGLProject\cpp\Lab04.cpp(116,15): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\ntut\碩一下學期\電腦圖學\MyOpenGLProject\cpp\Lab04.cpp(123,19): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\ntut\碩一下學期\電腦圖學\MyOpenGLProject\cpp\Lab04.cpp(123,15): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\ntut\碩一下學期\電腦圖學\MyOpenGLProject\cpp\Lab04.cpp(126,28): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\ntut\碩一下學期\電腦圖學\MyOpenGLProject\cpp\Lab04.cpp(126,24): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\ntut\碩一下學期\電腦圖學\MyOpenGLProject\cpp\Lab04.cpp(170,14): warning C4244: '正在初始化': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\ntut\碩一下學期\電腦圖學\MyOpenGLProject\cpp\Lab04.cpp(171,14): warning C4244: '正在初始化': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\ntut\碩一下學期\電腦圖學\MyOpenGLProject\cpp\Lab04.cpp(175,16): warning C4244: '/=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\ntut\碩一下學期\電腦圖學\MyOpenGLProject\cpp\Lab04.cpp(176,16): warning C4244: '/=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\ntut\碩一下學期\電腦圖學\MyOpenGLProject\cpp\Lab04.cpp(177,16): warning C4244: '/=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+  MyOpenGLProject.vcxproj -> D:\ntut\碩一下學期\電腦圖學\MyOpenGLProject\Debug\MyOpenGLProject.exe
